@@ -1,0 +1,28 @@
+body{
+  background-color: #EAF6F6;
+  font-size: large;
+}
+.dp {
+  border-radius: 100%;
+}
+
+img:hover {
+  background-color: gold;
+}
+
+
+h1 {
+  color: #79b8d1;
+}
+h3 {
+  color: #79b8d1;
+}
+hr {
+  width: 10%;
+  border-top: dotted;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+  border-width: thick;
+  border-color: grey;
+}
